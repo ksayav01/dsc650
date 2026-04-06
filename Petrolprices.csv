@@ -1,0 +1,102 @@
+Country,Region,Price_Per_Liter_USD,Price_Per_Gallon_USD,Previous_Price_USD,Price_Change_Percent,Price_Trend,Price_Level
+Hong Kong,Asia,4.11,15.56,3.78,8.7,Stable,Very High
+Singapore,Asia,3.38,12.79,2.84,19,Rising Sharply,Very High
+Netherlands,Europe,2.8,10.6,2.56,9.4,Stable,Very High
+Denmark,Europe,2.54,9.61,2.26,12.4,Rising,Very High
+Germany,Europe,2.47,9.35,2.18,13.3,Rising,Very High
+Albania,Europe,2.4,9.08,2.12,13.2,Rising,Very High
+Switzerland,Europe,2.36,8.93,2.17,8.8,Stable,Very High
+France,Europe,2.33,8.82,2.11,10.4,Rising,Very High
+Greece,Europe,2.31,8.74,2.05,12.7,Rising,Very High
+Finland,Europe,2.26,8.56,2,13,Rising,Very High
+Belgium,Europe,2.16,8.18,1.95,10.8,Rising,Very High
+Austria,Europe,2.11,7.99,1.85,14.1,Rising,Very High
+Italy,Europe,2.11,7.99,2.08,1.4,Stable,Very High
+Portugal,Europe,2.22,8.4,1.99,11.6,Rising,Very High
+Ireland,Europe,2.08,7.87,2.04,2,Stable,Very High
+Estonia,Europe,2.01,7.61,1.76,14.2,Rising,Very High
+United Kingdom,Europe,1.99,7.53,1.79,11.2,Rising,High
+New Zealand,Oceania,1.83,6.93,1.51,21.2,Rising Sharply,High
+Australia,Oceania,1.74,6.59,1.22,42.6,Surging,High
+Spain,Europe,1.84,6.97,1.84,0,Stable,High
+Serbia,Europe,1.84,6.97,1.8,2.2,Stable,High
+Croatia,Europe,1.87,7.08,1.71,9.4,Stable,High
+Hungary,Europe,1.87,7.08,1.76,6.3,Stable,High
+Czech Republic,Europe,1.88,7.12,1.69,11.2,Rising,High
+Lithuania,Europe,1.9,7.19,1.72,10.5,Rising,High
+Sweden,Europe,1.9,7.19,1.68,13.1,Rising,High
+Romania,Europe,1.95,7.38,1.82,7.1,Stable,High
+Iceland,Europe,1.88,7.12,2.48,-24.2,Falling Sharply,High
+Poland,Europe,1.82,6.89,1.62,12.3,Rising,High
+Bulgaria,Europe,1.69,6.4,1.47,15,Rising,High
+Montenegro,Europe,1.67,6.32,1.64,1.8,Stable,High
+Latvia,Europe,1.73,6.55,1.29,34.1,Rising Sharply,High
+Slovakia,Europe,1.76,6.66,1.27,38.6,Rising Sharply,High
+Bosnia and Herzegovina,Europe,1.42,5.38,1.4,1.4,Stable,High
+North Macedonia,Europe,1.62,6.13,1.41,14.9,Rising,High
+Slovenia,Europe,1.36,5.15,1.21,12.4,Rising,Medium
+Israel,Asia,2.23,8.44,2.25,-0.9,Stable,Very High
+Japan,Asia,1.11,4.2,1.01,9.9,Rising,Medium
+South Korea,Asia,1.23,4.66,1.18,4.2,Rising,Medium
+China,Asia,1.37,5.19,1.03,33,Rising Sharply,Medium
+Thailand,Asia,1.25,4.73,0.98,27.6,Rising Sharply,Medium
+Philippines,Asia,1.52,5.75,0.98,55.1,Surging,Medium
+Vietnam,Asia,0.74,2.8,0.7,5.7,Stable,Low
+Indonesia,Asia,0.59,2.23,0.6,-1.7,Stable,Low
+Malaysia,Asia,0.5,1.89,0.51,-2,Stable,Low
+India,Asia,1.01,3.82,1.04,-2.9,Stable,Medium
+Pakistan,Asia,1.15,4.35,0.93,23.7,Rising Sharply,Medium
+Bangladesh,Asia,1,3.79,0.95,5.3,Stable,Medium
+Sri Lanka,Asia,1.1,4.16,1.05,4.8,Stable,Medium
+Nepal,Asia,1.2,4.54,1.15,4.3,Rising,Medium
+Kazakhstan,Asia,0.51,1.93,0.49,4.1,Rising,Low
+Azerbaijan,Asia,0.68,2.57,0.68,0,Stable,Low
+Turkmenistan,Asia,0.43,1.63,0.43,0,Stable,Low
+Iran,Middle East,0.36,1.36,0.36,0,Stable,Low
+Saudi Arabia,Middle East,0.62,2.35,0.62,0,Stable,Low
+Kuwait,Middle East,0.28,1.06,0.28,0,Stable,Low
+UAE,Middle East,0.68,2.57,0.63,7.9,Rising,Low
+Qatar,Middle East,0.51,1.93,0.5,2,Stable,Low
+Bahrain,Middle East,0.58,2.2,0.58,0,Stable,Low
+Oman,Middle East,0.61,2.31,0.61,0,Stable,Low
+Iraq,Middle East,0.65,2.46,0.65,0,Stable,Low
+Lebanon,Middle East,1.32,5,1,32,Rising Sharply,Medium
+Jordan,Middle East,1.45,5.49,1.4,3.6,Stable,Medium
+Egypt,Middle East,0.42,1.59,0.4,5,Stable,Low
+United States,North America,0.96,3.63,0.77,24.7,Rising Sharply,Medium
+Canada,North America,1.28,4.85,1.02,25.5,Rising Sharply,Medium
+Mexico,North America,1.35,5.11,1.35,0,Stable,Medium
+Guatemala,North America,1.36,5.15,0.98,38.8,Rising Sharply,Medium
+Costa Rica,North America,1.36,5.15,1.25,8.8,Rising,Medium
+Honduras,North America,1.11,4.2,1.15,-3.5,Stable,Medium
+El Salvador,North America,1.01,3.82,0.93,8.6,Rising,Medium
+Panama,North America,0.84,3.18,0.82,2.4,Stable,Low
+Puerto Rico,North America,0.96,3.63,0.73,31.5,Rising Sharply,Medium
+Brazil,South America,1.29,4.88,1.23,4.9,Rising,Medium
+Argentina,South America,1.19,4.5,1.11,7.2,Rising,Medium
+Chile,South America,1.27,4.81,1.35,-5.9,Falling,Medium
+Colombia,South America,1.07,4.05,1.12,-4.5,Falling,Medium
+Peru,South America,1.28,4.85,1.16,10.3,Rising,Medium
+Bolivia,South America,1.01,3.82,1.01,0,Stable,Medium
+Paraguay,South America,0.86,3.26,0.8,7.5,Rising,Low
+Uruguay,South America,1.9,7.19,2.04,-6.9,Falling,High
+Venezuela,South America,0.01,0.04,0.01,0,Stable,Very Low
+Ecuador,South America,0.71,2.69,0.71,0,Stable,Low
+South Africa,Africa,1.2,4.54,1.26,-4.8,Falling,Medium
+Nigeria,Africa,0.9,3.41,0.76,18.4,Rising Sharply,Low
+Ghana,Africa,1.31,4.96,1.27,3.1,Stable,Medium
+Kenya,Africa,1.37,5.19,1.38,-0.7,Stable,Medium
+Zimbabwe,Africa,2.17,8.21,1.56,39.1,Rising Sharply,High
+Zambia,Africa,1.45,5.49,1.4,3.6,Stable,Medium
+Tanzania,Africa,1.1,4.16,1.08,1.9,Stable,Medium
+Uganda,Africa,1.25,4.73,1.2,4.2,Rising,Medium
+Ethiopia,Africa,0.85,3.22,0.82,3.7,Stable,Low
+Angola,Africa,0.33,1.25,0.33,0,Stable,Low
+Algeria,Africa,0.36,1.36,0.36,0,Stable,Low
+Libya,Africa,0.03,0.11,0.03,0,Stable,Very Low
+Sudan,Africa,0.7,2.65,0.7,0,Stable,Low
+Russia,Europe/Asia,0.83,3.14,0.87,-4.6,Falling,Low
+Turkey,Europe/Asia,1.44,5.45,1.18,22,Rising Sharply,Medium
+Ukraine,Europe,1.52,5.75,1.39,9.4,Rising,Medium
+Belarus,Europe,0.79,2.99,0.83,-4.8,Falling,Low
+Syria,Middle East,0.74,2.8,2.15,-65.6,Falling Sharply,Low
